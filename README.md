@@ -9,7 +9,7 @@
 
 ```mermaid
 ---
-title: get_next_line Flow & Logic
+title: Get_Next_Line Flow & Logic
 ---
 classDiagram
     class get_next_line
