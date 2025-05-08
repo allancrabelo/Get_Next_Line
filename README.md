@@ -7,8 +7,9 @@
 3) Encontar o \n retorna linha
 4) manter o restante na proxima chamada
 
+```mermaid
 ---
-title get_next_line Flow & Logic
+title: get_next_line Flow & Logic
 ---
 classDiagram
     class get_next_line
@@ -41,4 +42,6 @@ classDiagram
     get_next_line --> ft_clean_backup
     ft_read_to_backup --> read
     ft_read_to_backup --> ft_strjoin_gnl
+
+```
 
