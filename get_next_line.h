@@ -6,7 +6,7 @@
 /*   By: aaugusto <aaugusto@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/08 15:53:55 by aaugusto          #+#    #+#             */
-/*   Updated: 2025/05/08 18:37:31 by aaugusto         ###   ########.fr       */
+/*   Updated: 2025/05/14 15:51:09 by aaugusto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ char	*get_next_line(int fd);
 char	*ft_strjoin(char const *s1, char const *s2);
 char	*ft_strchr(const char *str, int c);
 void	*ft_free(char **ptr);
-int	    ft_strlen(const char *str);
-char	*ft_substr(char const *s, size_t start, size_t len);
+size_t	ft_strlen(const char *str);
+char	*ft_substr(char *s, size_t start, size_t len);
 
 #endif
