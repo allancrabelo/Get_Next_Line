@@ -80,15 +80,11 @@ This isn’t just any GNL — it’s the one you want to clone when no one’s w
 
 ## 🧪 Brilliant Tests I Cooked Up
 
-    ✅ Terminal Maze Game — every line is a command, every command is a door.
+    ✅ Terminal Plato's Cave Game — every line is a command, every command is a door.
 
-    ✅ FD Chaos — open 5 files and call GNL in random order.
+    ✅ FD Chaos Benchmark — open 3 texts with 100, 100.000 and 1.000.000 caracters and call GNL.
 
-    ✅ Buffer Torture — BUFFER_SIZE = 1, BUFFER_SIZE = 999999. Break it if you can.
-
-    ✅ Ur-an-onb — GNL vs /dev/urandom: robustness at stratospheric levels.
-
-    ✅ Differ Power — visual diff against cat + diff, showing mismatches like a hacker boss.
+    ✅ Just a image framed — Yup, I don’t have the image rights.”.
 
 ## 📝 Repository Structure
 
