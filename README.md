@@ -136,3 +136,10 @@ Because stopping here would be… mediocre.
     📄 GitHub Pages documentation that looks like a startup landing page
 
     🤝 Collabs with devs who love code and chaos
+
+<p align="center">
+  <a href="https://github.com/allancrabelo" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/2209596f-8fd3-4ab3-8d39-0c53a02a30c0" alt="Imagem" />
+  </a>
+</p>
+
