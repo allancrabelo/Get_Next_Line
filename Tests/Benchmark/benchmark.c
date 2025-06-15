@@ -11,9 +11,11 @@ void print_banner() {
     printf(
         "###############################################################\n"
         "#                                                             #\n"
-        "#          WELCOME TO THE ULTIMATE GET_NEXT_LINE BENCHMARK    #\n"
-        "#              THE ABSOLUTE TEST OF READING SPEED             #\n"
-        "#        ONLY THE STRONGEST SURVIVE THE LINES OF DATA          #\n"
+        "#   THE ULTIMATE, UNRIVALED, GODLIKE GET_NEXT_LINE BENCHMARK  #\n"
+        "#              WHERE ONLY LEGENDS DARE TO TEST THEIR CODE     #\n"
+        "#                                                             #\n"
+        "#        THIS IS NOT FOR THE FAINT OF HEART OR SLOW OF MIND   #\n"
+        "#          PREPARE TO WITNESS UNMATCHED SPEED AND POWER       #\n"        
         "#                                                             #\n"
         "###############################################################\n\n"
     );
