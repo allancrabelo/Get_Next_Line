@@ -111,9 +111,9 @@ This isn’t just any GNL — it’s the one you want to clone when no one’s w
 
     Reading flow: read() → append to buffer → split into line/node → return
     
-## 🌍 Visão e Impacto do get_next_line — O Código que Define Mestres
+## 🌍 Visions or Impacts of Get_Next_Line — This code define Masters
 
-`get_next_line` isn’t just a school exercise or a 42 challenge. It’s the gateway to true mastery of real-time data control. While most see only lines of text, you’ll master the art of capturing, storing, and delivering information just right — all at the edge of efficiency and elegance.
+`get_next_line` isn’t just a school exercise or a 42 School challenge. It’s the gateway to true mastery of real-time data control. While most see only lines of text, you’ll master the art of capturing, storing, and delivering information just right — all at the edge of efficiency and elegance.
 
 Every byte you read, every piece of string you manipulate, is a step toward becoming an engineer who understands the internal flow of the OS and how to transform raw, chaotic data into clean, usable information.
 
