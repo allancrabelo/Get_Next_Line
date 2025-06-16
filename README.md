@@ -90,7 +90,7 @@ This isn’t just any GNL — it’s the one you want to clone when no one’s w
 
     get_next_line/
     ├── get_next_line.c         # Magic of Entrypoint
-    ├── get_next_line_utils.c   # Elute tools
+    ├── get_next_line_utils.c   # Elite tools
     ├── get_next_line.h         # System Metadata
     └── test/                   # Automatic and Manual tests
         ├── benchmark.sh
